@@ -21,24 +21,30 @@ An intelligent cooking assistant built with React.js that creates personalized r
 
 ### Installation
 
-1. **Clone the repository**
-  ```bash
-  git clone https://github.com/manrajc13/Chef_Llama.git
-  ```
-2. **Navigate to project directory**
+
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/manrajc13/Chef_Llama.git
+   ```
+
+2. Navigate to project directory  
    ```bash
    cd Chef_Llama
    ```
-3. **Install dependencies**
+
+3. Install dependencies  
    ```bash
    npm install
    ```
-4. **Set up environet variables**
-     Set up .env file in the root directory and in that file set
+
+4. Set up environment variables  
+   Set up a `.env` file in the root directory and in that file set:  
    ```bash
    VITE_GROQ_API_KEY=gsk_your_api_key_here
    ```
-5. **Run the Web App**
+
+5. Run the Web App  
    ```bash
    npm run dev
    ```
